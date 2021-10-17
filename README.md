@@ -1,6 +1,6 @@
    Hi 👋, I'm George Tsiftsis
 
-🚶🏻 Web Developer 💻 Coffee Lover ☕ Greek 🌊
+🚶🏻 Web Developer 💻  Greek 🌊
 
 🔭 I’m currently working on making a  Tae-Kwon-Do sport-club website using NextJs and firebase!
 
