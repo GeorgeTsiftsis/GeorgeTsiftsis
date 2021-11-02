@@ -2,7 +2,7 @@
 
 🚶🏻 Web Developer 💻  Greek 🌊
 
-🔭 I’m currently working on making a  Tae-Kwon-Do sport-club website using NextJs and firebase!
+🔭 I’m currently working on making a website for a university lab of Mollecular Biology using NextJs 12 Tailwind and firebase! 
 
 🌱 I’m currently learning Vue and Typescript
 
