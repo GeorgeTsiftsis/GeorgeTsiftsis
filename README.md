@@ -13,10 +13,10 @@ Hi 👋, I'm George Tsiftsis
 
  <li>🧑‍💻 All of my projects are available at https://gtsif.com </li>
    </ul>
-<a >
+
  
    </br >
-   <h1> Connect with me </h1>
+   <h2> Connect with me </h2>
 <a href="mailto:gtsiff@gmail.com" > <img
 align="left"
 alt="George Tsiftsis GMail"
@@ -29,7 +29,12 @@ align="left"
 alt="George Tsiftsis LinkedIn"
 width="30px"
 src="https://image.flaticon.com/icons/png/512/174/174857.png" />
-    </a>
+   </a>
+  
+    
+    </br>
+    </br> 
+    <h2> Languages and Tools: </h2>
 
 <!---
 GeorgeTsiftsis/GeorgeTsiftsis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
