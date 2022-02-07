@@ -47,8 +47,12 @@ align="left"
 alt="JAVASCRIPT"
 width="40px"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-    
- 
+  <img
+align="left"
+alt="JAVASCRIPT"
+width="40px"
+src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" />  
+
 
 <!---
 GeorgeTsiftsis/GeorgeTsiftsis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
