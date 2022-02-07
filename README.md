@@ -14,8 +14,7 @@ Hi 👋, I'm George Tsiftsis
  <li>🧑‍💻 All of my projects are available at https://gtsif.com </li>
    </ul>
 
- 
-   </br >
+ </br >
    <h2> Connect with me </h2>
 <a href="mailto:gtsiff@gmail.com" > <img
 align="left"
@@ -30,6 +29,8 @@ alt="George Tsiftsis LinkedIn"
 width="30px"
 src="https://image.flaticon.com/icons/png/512/174/174857.png" />
    </a>
+   </br>    
+    <h2> Languages and Tools: </h2>
   
     
  
