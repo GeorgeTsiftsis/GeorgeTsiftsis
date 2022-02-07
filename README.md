@@ -13,7 +13,7 @@
 
 ‹a href="mailto:gtsiff@gmail.com"
 › <img
-align="center"
+align="left"
 alt="George Tsiftsis GMail"
 width="30px"
 src="https://image.flaticon.com/icons/png/512/732/732200.png"/>
