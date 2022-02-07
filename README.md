@@ -14,7 +14,9 @@ Hi 👋, I'm George Tsiftsis
  <li>🧑‍💻 All of my projects are available at https://gtsif.com </li>
    </ul>
 <a >
-
+ 
+   </br >
+   <p> Connect with me </p>
 <a href="mailto:gtsiff@gmail.com" > <img
 align="left"
 alt="George Tsiftsis GMail"
