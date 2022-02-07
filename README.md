@@ -2,11 +2,11 @@
 
 🚶🏻 Web Developer 💻  Greek 🌊
 
-🔭 I’m currently working on making a website for a university lab of Mollecular Biology using NextJs 12 Tailwind and firebase! 
+🔭 I’m currently working on the development of a fitness mobile app!
 
-🌱 I’m currently learning Vue and Typescript
+🌱 I’m currently learning Node Js and GraphQL
 
-🤝 I’m currently seeking a Junior Web Dev Role
+🤝 I’m currently seeking a Front-End  Role
 
 🧑‍💻 All of my projects are available at https://gtsif.com
 📫 Shot me an e-mail gtsiff@gmail.com
