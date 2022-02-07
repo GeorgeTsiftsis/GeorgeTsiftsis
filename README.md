@@ -1,6 +1,9 @@
-   Hi 👋, I'm George Tsiftsis
 
-🚶🏻 Web Developer 💻  Greek 🌊
+<h1> Front-end Developer 💻  </h1>
+
+Hi 👋, I'm George Tsiftsis
+
+
 
 🔭 I’m currently working on the development of a fitness mobile app!
 
