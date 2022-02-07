@@ -31,7 +31,7 @@ src="https://image.flaticon.com/icons/png/512/174/174857.png" />
    </a>
    </br>    
     <h2> Languages and Tools: </h2>
-     <img
+   <img
 align="left"
 alt="REACT"
 width="40px"
@@ -68,7 +68,7 @@ width="40px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
 </br>
-</br>
+
   <img
 align="left"
 alt="DOCKER"
