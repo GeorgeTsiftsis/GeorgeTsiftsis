@@ -32,9 +32,7 @@ src="https://image.flaticon.com/icons/png/512/174/174857.png" />
    </a>
   
     
-    </br>
-    </br> 
-    <h2> Languages and Tools: </h2>
+ 
 
 <!---
 GeorgeTsiftsis/GeorgeTsiftsis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
