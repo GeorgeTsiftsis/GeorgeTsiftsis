@@ -32,12 +32,11 @@ src="https://image.flaticon.com/icons/png/512/174/174857.png" />
    </br>    
     <h2> Languages and Tools: </h2>
     
-[<img
+<img
 align="left"
 alt="HTML5"
 width="40px"
-src="https://raw-githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />][github]
-  [<img
+src="https://raw-githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> <img
 align="left"
 alt="HTML5"
 width="40px"
