@@ -36,7 +36,7 @@ src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 align="left"
 alt="HTML5"
 width="40px"
-src="https://raw-githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> 
     
  
 
