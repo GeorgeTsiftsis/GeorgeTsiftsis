@@ -44,8 +44,7 @@ src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772
 </br>
 </br>
 </br>
-</br>
-</br>
+
 <img
 align="left"
 alt="HTML5"
