@@ -55,7 +55,7 @@ src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" />
   <img
 align="left"
 alt="REACT"
-width="40px"
+width="30px"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> 
 <img
 align="left"
