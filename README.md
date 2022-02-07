@@ -4,14 +4,15 @@
 Hi 👋, I'm George Tsiftsis
 
 
+<ul>
+   <li> 🔭 I’m currently working on the development of a fitness mobile app! </li>
 
-🔭 I’m currently working on the development of a fitness mobile app!
+<li>🌱 I’m currently learning Node Js and GraphQL </li>
 
-🌱 I’m currently learning Node Js and GraphQL
+<li>🤝 I’m currently seeking a Front-End  Role </li>
 
-🤝 I’m currently seeking a Front-End  Role
-
-🧑‍💻 All of my projects are available at https://gtsif.com
+ <li>🧑‍💻 All of my projects are available at https://gtsif.com </li>
+   </ul>
 <a >
 
 <a href="mailto:gtsiff@gmail.com" > <img
