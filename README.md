@@ -16,7 +16,7 @@ Hi 👋, I'm George Tsiftsis
 <a >
  
    </br >
-   <p> Connect with me </p>
+   <h1> Connect with me </h1>
 <a href="mailto:gtsiff@gmail.com" > <img
 align="left"
 alt="George Tsiftsis GMail"
