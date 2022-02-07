@@ -10,15 +10,10 @@
 
 🧑‍💻 All of my projects are available at https://gtsif.com
 <a >
-<img
-align="left"
-alt="George Tsiftsis LinkedIn"
-width="30px"
-src="https://image.flaticon.com/icons/png/512/174/174857.png"
-     /›][linkedin] </a>
+
 ‹a href="mailto:gtsiff@gmail.com"
 › <img
-align="left"
+align="center"
 alt="George Tsiftsis GMail"
 width="30px"
 src="https://image.flaticon.com/icons/png/512/732/732200.png"/>
