@@ -9,12 +9,13 @@
 🤝 I’m currently seeking a Front-End  Role
 
 🧑‍💻 All of my projects are available at https://gtsif.com
- <img
+<a >
+<img
 align="left"
 alt="George Tsiftsis LinkedIn"
 width="30px"
 src="https://image.flaticon.com/icons/png/512/174/174857.png"
-/›][linkedin]
+     /›][linkedin] </a>
 ‹a href="mailto:gtsiff@gmail.com"
 › <img
 align="left"
