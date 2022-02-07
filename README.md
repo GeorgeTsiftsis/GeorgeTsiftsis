@@ -16,7 +16,7 @@ align="left"
 alt="George Tsiftsis GMail"
 width="30px"
 src="https://image.flaticon.com/icons/png/512/732/732200.png" />
-</a›
+   </a>
 
 <!---
 GeorgeTsiftsis/GeorgeTsiftsis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
