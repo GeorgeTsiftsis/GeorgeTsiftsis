@@ -1,5 +1,5 @@
 
-<h1> Front-end Developer 💻  </h1>
+<h1 style= {{fontSize: '10px' }} > Front-end Developer 💻  </h1>
 
 Hi 👋, I'm George Tsiftsis
 
