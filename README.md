@@ -5,7 +5,7 @@ Hi 👋, I'm George Tsiftsis
 
 
 <ul>
-   <li> 🔭 I’m currently working on Smart Up as Software Developer </li>
+   <li> 🔭 I’m currently working on Smart Up Ike as Software Developer </li>
 
 <li>🌱 I’m currently learning Angular and Node JS </li>
 
