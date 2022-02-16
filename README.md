@@ -5,11 +5,10 @@ Hi 👋, I'm George Tsiftsis
 
 
 <ul>
-   <li> 🔭 I’m currently working on the development of a fitness mobile app! </li>
+   <li> 🔭 I’m currently working on Smart Up as Software Developer </li>
 
-<li>🌱 I’m currently learning Node Js and GraphQL </li>
+<li>🌱 I’m currently learning Angular and Node JS </li>
 
-<li>🤝 I’m currently seeking a Front-End  Role </li>
 
  <li>🧑‍💻 All of my projects are available at https://gtsif.com </li>
    </ul>
