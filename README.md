@@ -19,14 +19,14 @@ Hi 👋, I'm George Tsiftsis
 align="left"
 alt="George Tsiftsis GMail"
 width="30px"
-src="https://image.flaticon.com/icons/png/512/732/732200.png" />
+src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
    </a>
 <a href="https://www.linkedin.com/in/george-tsiftsis/"> 
    <img
 align="left"
 alt="George Tsiftsis LinkedIn"
 width="30px"
-src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1660342100~hmac=33eae6ee01aef5e884ed888a36b80d5c" />
    </a>
    </br>    
     <h2> Languages and Tools: </h2>
