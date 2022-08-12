@@ -15,13 +15,15 @@ Hi 👋, I'm George Tsiftsis
 
  </br >
    <h2> Connect with me </h2>
-<a href="mailto:gtsiff@gmail.com" > <img
+<a href="mailto:gtsiff@gmail.com"
+   target="_blank" rel="noopener noreferrer"> <img
 align="left"
 alt="George Tsiftsis GMail"
 width="30px"
 src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
    </a>
-<a href="https://www.linkedin.com/in/george-tsiftsis/"> 
+<a href="https://www.linkedin.com/in/george-tsiftsis/"
+  target="_blank" rel="noopener noreferrer"> 
    <img
 align="left"
 alt="George Tsiftsis LinkedIn"
