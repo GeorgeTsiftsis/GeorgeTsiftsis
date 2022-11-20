@@ -7,7 +7,7 @@ Hi 👋, I'm George Tsiftsis
 <ul>
    <li> 🔭 I’m currently working on Smart Up Ike as Software Developer </li>
 
-<li>🌱 I’m currently learning Node JS </li>
+<li>🌱 I’m currently learning Unit Intergation and E2E tests  </li>
 
 
  <li>🧑‍💻 All of my projects are available at https://gtsif.com </li>
