@@ -5,7 +5,8 @@ Hi 👋, I'm George Tsiftsis
 
 
 <ul>
-   <li> 🔭 I’m currently working on Convert Group Company as Full Stack Engineer </li>
+   <li> 🔭 I’m currently working on <a href="https://convertgroup.com"
+  target="_blank" rel="noopener noreferrer"> Convert Group Company </a> as Full Stack Engineer </li>
 
 <li>🌱 I’m currently learning Java  </li>
 
