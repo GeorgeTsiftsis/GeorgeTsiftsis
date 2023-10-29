@@ -1,11 +1,11 @@
 
-<h2  > Front-end Developer 💻  </h1>
+<h2  > Software Engineer 💻  </h1>
 
 Hi 👋, I'm George Tsiftsis
 
 
 <ul>
-   <li> 🔭 I’m currently working on Smart Up Ike as Software Developer </li>
+   <li> 🔭 I’m currently working on Convert Group Company as Full Stack Engineer </li>
 
 <li>🌱 I’m currently learning Java  </li>
 
