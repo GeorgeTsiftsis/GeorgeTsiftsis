@@ -8,8 +8,6 @@ Hi 👋, I'm George Tsiftsis
    <li> 🔭 I’m currently working on <a href="https://convertgroup.com"
   target="_blank" rel="noopener noreferrer"> Convert Group Company </a> as Full Stack Engineer </li>
 
-<li>🌱 I’m currently learning Java  </li>
-
 
  <li>🧑‍💻 All of my projects are available at https://gtsif.com </li>
    </ul>
