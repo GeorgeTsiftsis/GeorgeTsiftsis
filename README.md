@@ -1,99 +1,48 @@
+# Hi, I'm George Tsiftsis ✨
 
-<h2  > Software Engineer 💻  </h1>
+Welcome to my GitHub profile! I am a **Full Stack Software Engineer**  in Convert Group and co-founder of **Genoch LTD**. With 4 years of experience, I specialize in building innovative, high-performance web applications with a focus on **Angular**, **AstroJs** **React**, **Python**, and **PostgreSQL**.
 
-Hi 👋, I'm George Tsiftsis
+---
 
+## 💡 About Me
 
-<ul>
-   <li> 🔭 I’m currently working on <a href="https://convertgroup.com"
-  target="_blank" rel="noopener noreferrer"> Convert Group Company </a> as Full Stack Engineer </li>
-
-
- <li>🧑‍💻 All of my projects are available at https://gtsif.com </li>
-   </ul>
-
- </br >
-   <h2> Connect with me </h2>
-<a href="mailto:gtsiff@gmail.com"
-   target="_blank" rel="noopener noreferrer"> <img
-align="left"
-alt="George Tsiftsis GMail"
-width="30px"
-src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
-   </a>
-<a href="https://www.linkedin.com/in/george-tsiftsis/"
-  target="_blank" rel="noopener noreferrer"> 
-   <img
-align="left"
-alt="George Tsiftsis LinkedIn"
-width="30px"
-src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
-   </a>
-   </br>    
-    <h2> Languages and Tools: </h2>
-    <img
-    align="left"
-    width="40px"
-    alt="Angular Logo"  
- src="https://avatars.githubusercontent.com/u/139426?s=200&v=4"
-  />
-   <img
-align="left"
-alt="REACT"
-width="40px"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> 
-<img
-align="left"
-alt="NEXTJS"
-width="40px"
-src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" /> 
-<img
-align="left"
-alt="python"
-width="40px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> 
-<img
-align="left"
-alt="postgreSQL"
-width="40px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
- <img
-align="left"
-alt="JAVASCRIPT"
-width="40px"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img
-align="left"
-alt="CSS3"
-width="40px"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img
-align="left"
-alt="DOCKER"
-width="40px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img
-align="left"
-alt="FIREBASE"
-width="40px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /> 
-<img
-align="left"
-alt="TAILWIND"
-width="40px"
-src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" />  
-  
+- **Professional Experience:**
+  - Software Engineer at Convert Group, contributing to e-commerce analytics platforms and streamlining digital shelf monitoring tools for the retail and brand industries.
+  - Co-founder of Genoch LTD, delivering scalable architectures and user-centered applications.
+  - Developed innovative solutions at DivvyFast, simplifying dividend documentation with automated workflows and compliance tools.
 
 
+- **Passions:**
+  - Solving complex problems with innovative solutions.
+  - Driving growth through collaborative and forward-thinking engineering practices.
 
- 
+---
 
+## 🚀 Technologies & Tools
 
+- **Frontend:** Angular, React
+- **Backend:** Python (Flask, Django), Java Spring boot,
+- **Database:** PostgreSQL, Nosql
+- **Other:** Docker, Kubernetes, AWS, CI/CD
 
+---
 
+## 🎨 Featured Projects
 
+1. **Smartxiv:** An AI-powered platform providing personalized research paper recommendations, streamlining academic content discovery.
+2. **User-Friendly Interfaces:** Built responsive, user-focused interfaces for diverse industries, from sports clubs to retail.
 
-<!---
-GeorgeTsiftsis/GeorgeTsiftsis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 💬 Let's Connect!
+
+I’m always open to new collaborations and opportunities. Feel free to reach out:
+
+- **Portfolio Website:** [gtsif.com](https://gtsif.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/george-tsiftsis/)
+- **Email:** [E-mail](gtsiff@gmail.com)
+
+---
+
+Thank you for stopping by! Let’s build something amazing together. ✨
+
