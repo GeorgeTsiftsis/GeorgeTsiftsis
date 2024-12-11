@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I am a **Full Stack Software Engineer**  in Conver
 - **Professional Experience:**
   - Software Engineer at Convert Group, contributing to e-commerce analytics platforms and streamlining digital shelf monitoring tools for the retail and brand industries.
   - Co-founder of Genoch LTD, delivering scalable architectures and user-centered applications.
-  - Developed innovative solutions at DivvyFast, simplifying dividend documentation with automated workflows and compliance tools.
 
 
 - **Passions:**
@@ -22,7 +21,7 @@ Welcome to my GitHub profile! I am a **Full Stack Software Engineer**  in Conver
 
 - **Frontend:** Angular, React
 - **Backend:** Python (Flask, Django), Java Spring boot,
-- **Database:** PostgreSQL, Nosql
+- **Database:** PostgreSQL, NoSQL
 - **Other:** Docker, Kubernetes, AWS, CI/CD
 
 ---
@@ -30,7 +29,8 @@ Welcome to my GitHub profile! I am a **Full Stack Software Engineer**  in Conver
 ## 🎨 Featured Projects
 
 1. **Smartxiv:** An AI-powered platform providing personalized research paper recommendations, streamlining academic content discovery.
-2. **User-Friendly Interfaces:** Built responsive, user-focused interfaces for diverse industries, from sports clubs to retail.
+2. **DivvyFast** Simplifying dividend documentation with automated workflows and compliance tools.
+3. **User-Friendly Interfaces:** Built responsive, user-focused interfaces for diverse industries, from sports clubs to retail.
 
 ---
 
