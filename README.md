@@ -1,6 +1,6 @@
 # Hi, I'm George Tsiftsis ✨
 
-Welcome to my GitHub profile! I am a **Full Stack Software Engineer**  at Convert Group and co-founder of **Genoch LTD**. With 4 years of experience, I specialize in building innovative, high-performance web applications with a focus on **Angular**, **AstroJs** **React**, **Python**, and **PostgreSQL**.
+Welcome to my GitHub profile! I am a **Full Stack Software Engineer**  at Convert Group and co-founder of **Genoch LTD**. With 4 years of experience, I specialize in building innovative, high-performance web applications with a focus on **Angular**, **Astro** **React**, **Python**, and **PostgreSQL**.
 
 ---
 
