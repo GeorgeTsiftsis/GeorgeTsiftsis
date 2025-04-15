@@ -1,6 +1,6 @@
 # Hi, I'm George Tsiftsis ✨
 
-Welcome to my GitHub profile! I am a **Full Stack Software Engineer**  at  <a href="https://convertgroup.com" target="_blank" rel="noopener"><b>ConvertGroup</b> </a> and Client Solutions Engineer at <a href="https://genoch.com" target="_blank" rel="noopener"><b>Genoch LTD</b> </a> . With 4 years of experience, I specialize in building innovative, high-performance web applications with a focus on **Angular**, **Astro**, **React**, **Python**, and **PostgreSQL**.
+Welcome to my GitHub profile! I am a **Full Stack Software Engineer**  at  <a href="https://instashop.com/en-ae" target="_blank" rel="noopener"><b>Instashop</b> </a> and Client Solutions Engineer at <a href="https://genoch.com" target="_blank" rel="noopener"><b>Genoch LTD</b> </a> . With 4 years of experience, I specialize in building innovative, high-performance web applications with a focus on **Angular**, **Astro**, **React**, **Python**, and **PostgreSQL**.
 
 ---
 
