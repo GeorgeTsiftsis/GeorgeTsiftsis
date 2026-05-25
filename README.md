@@ -1,13 +1,13 @@
 # Hi, I'm George Tsiftsis ✨
 
-Welcome to my GitHub profile! I am a **Full Stack Software Engineer**  at  <a href="https://instashop.com/en-ae" target="_blank" rel="noopener"><b>Instashop</b> </a> and Client Solutions Engineer at <a href="https://genoch.com" target="_blank" rel="noopener"><b>Genoch LTD</b> </a> . With 5 years of experience, I specialize in building innovative, high-performance web applications with a focus on **Angular**, **Astro**, **React**, **Python**, and **PostgreSQL**.
+Welcome to my GitHub profile! I am a **Full Stack Software Engineer**  at  <a href="https://instashop.com/en-ae" target="_blank" rel="noopener"><b>Instashop</b> </a> and Client Solutions Engineer at <a href="https://genoch.com" target="_blank" rel="noopener"><b>Genoch LTD</b> </a> . With 5+ years of experience, I specialize in building innovative, high-performance web applications with a focus on **Angular**, **Astro**, **React**, **Python**, and **PostgreSQL**.
 
 ---
 
 ## 💡 About Me
 
 - **Professional Experience:**
-  - Software Engineer at Convert Group, contributing to e-commerce analytics platforms and streamlining digital shelf monitoring tools for the retail and brand industries.
+  - Software Engineer at Instashop, contributing to e-commerce analytics platforms and streamlining digital shelf monitoring tools for the retail and brand industries.
   - Co-founder of Genoch LTD, delivering scalable architectures and user-centered applications.
 
 
